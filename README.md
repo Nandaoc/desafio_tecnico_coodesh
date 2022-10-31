@@ -46,3 +46,6 @@ E então você pode acessar o Jupyter com:
 
 3. Clone o repositório
 Após a preparação do ambiente, basta clonar o repositório na sua máquina e abrí-lo no Jupyter.
+
+4. Veja o vídeo com a explicação do código
+[Aqui](https://www.loom.com/share/e816f7c3e8904696995ceb87b3544035) eu explico um pouco mais sobre o código da resolução do desafio.
