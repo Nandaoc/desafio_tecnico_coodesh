@@ -21,7 +21,7 @@ sudo apt install python3
 ```
 
 2. Instale o Jupyter Notebook
-O Jupyter é a IDE que recomendo ser utilizada para rodar o projeto e ela pode ser instalada em qualquer Sistema Operacional e, para instalar, vamos usar o gerenciador de pacotes do Python, o `pip`. Caso você não o tenha instalado, confira (aqui)[https://pip.pypa.io/en/stable/installation/] como fazer a instalação.
+O Jupyter é a IDE que recomendo ser utilizada para rodar o projeto e ela pode ser instalada em qualquer Sistema Operacional e, para instalar, vamos usar o gerenciador de pacotes do Python, o `pip`. Caso você não o tenha instalado, confira [aqui](https://pip.pypa.io/en/stable/installation/) como fazer a instalação.
 
 2.1. Instalando o Jupyter no Windows
 Com o pip funcionando, basta digitar os seguintes comandos no seu prompt do Windows:
