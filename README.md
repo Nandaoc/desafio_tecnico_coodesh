@@ -1,6 +1,6 @@
 # Desafio Técnico Coodesh - Python Challenge 20211119
 
-Análise exploraória dos dados de filmes cadastrados nas plataformas da Amazon e da Netflix.
+Análise exploratória dos dados de filmes cadastrados nas plataformas da Amazon e da Netflix.
 
 ## Instruções para usar o projeto
 
