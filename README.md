@@ -1,6 +1,6 @@
 # Desafio Técnico Coodesh - Python Challenge 20211119
 
-Repositório que contém a resolução do desafio técnico de Python para Ciência de Dados da Coodesh.
+Análise exploraória dos dados de filmes cadastrados nas plataformas da Amazon e da Netflix.
 
 ## Instruções para usar o projeto
 
